@@ -1,0 +1,6 @@
+{
+  "name": "StridePath - Daily Pedometer & Route Tracker",
+  "description": "Smart daily step counter and GPS walking route tracker with real-time sensor detection, interactive maps, elevation profiles, and activity analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
